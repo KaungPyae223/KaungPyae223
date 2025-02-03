@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hello, I'm [Your Name]!
+🚀 Developer | 🎨 Designer | 📚 Lifelong Learner  
 
-<!--
-**KaungPyae223/KaungPyae223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Tech Stack  
+- **Languages:** Python, JavaScript, Java  
+- **Frontend:** React, HTML, CSS  
+- **Backend:** Node.js, Express  
+- **Database:** MySQL, MongoDB  
+- **Tools:** Git, Docker, VS Code  
 
-Here are some ideas to get you started:
+## 🎯 Current Focus  
+- Building search functionality for yoga classes by day/time  
+- Improving my programming skills at KMD University  
+- Learning advanced Japanese beyond N5  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let's Connect!  
+- 🌍 [Portfolio/Website](#)  
+- 🐦 [Twitter](#)  
+- 💼 [LinkedIn](#)  
+
+---
+💡 *"Code, Learn, Repeat!"*  
+
