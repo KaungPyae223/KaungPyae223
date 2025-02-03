@@ -1,23 +1,21 @@
-# 👋 Hello, I'm [Your Name]!
+# 👋 Hello, I'm Kaung Pyae Aung!
 🚀 Developer | 🎨 Designer | 📚 Lifelong Learner  
 
 ## 🔧 Tech Stack  
-- **Languages:** Python, JavaScript, Java  
-- **Frontend:** React, HTML, CSS  
-- **Backend:** Node.js, Express  
-- **Database:** MySQL, MongoDB  
-- **Tools:** Git, Docker, VS Code  
+- **Languages:** HTML, CSS, JavaScript, TypeScript 
+- **Frontend:** React, Next.js  
+- **Backend:** Laravel, PHP 
+- **Database:** MySQL, Microsoft SQL
+- **Tools:** Git, VS Code  
 
 ## 🎯 Current Focus  
-- Building search functionality for yoga classes by day/time  
-- Improving my programming skills at KMD University  
-- Learning advanced Japanese beyond N5  
+- Improving my programming skills at KMD University, MMSIT
+-  
 
 ## 📫 Let's Connect!  
-- 🌍 [Portfolio/Website](#)  
-- 🐦 [Twitter](#)  
-- 💼 [LinkedIn](#)  
+- 🌍 [Portfolio/Website](#https://kaung-pyae-portfolio.netlify.app/)   
+- 💼 [LinkedIn](#https://www.linkedin.com/in/kaung-pyae-908324250/)  
 
 ---
-💡 *"Code, Learn, Repeat!"*  
+💡 *"Work Hard, Learn Hard, Try Hard, Success Fast"*  
 
