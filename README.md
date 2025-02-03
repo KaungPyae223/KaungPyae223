@@ -25,9 +25,9 @@ Currently, I'm studying at KMD University and have a background in programming f
 ## Current Focus  
 - Improving my programming skills at KMD University, MMSIT
 
-## Let's Connect!  
-- 🌍 [Portfolio/Website](#https://kaung-pyae-portfolio.netlify.app/)   
-- 💼 [LinkedIn](#https://www.linkedin.com/in/kaung-pyae-908324250/)  
+## 📫 Let's Connect!  
+- 🌍 [Portfolio/Website](https://kaung-pyae-portfolio.netlify.app/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/kaung-pyae-908324250/)  
 
 ---
 💡 *"Work Hard, Learn Hard, Try Hard, Success Fast"*  
