@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Kaung Pyae Aung!
-🚀 Developer | 🎨 Designer | 📚 Lifelong Learner  
+🚀 Developer | 📚 Lifelong Learner  
 
 ## About ME
 I'm a junior web developer passionate about building web applications.  
