@@ -2,11 +2,9 @@
 🚀 Developer | 🎨 Designer | 📚 Lifelong Learner  
 
 ## About ME
-
-## About Me  
 I'm a junior web developer passionate about building web applications.  
 I love working with modern web technologies and continuously strive to improve my skills.  
-Currently, I am internedship at MMSIT. 
+Currently, I'm studying at KMD University and have a background in programming from KMD and MMSIT. 
 
 ## Education  
 - 🎓 **BSc (Hons) Computing** – Final Year, University of Greenwich  
