@@ -2,7 +2,7 @@
 🚀 Developer | 📚 Lifelong Learner  
 
 ## About ME
-I'm a junior web developer passionate about building web applications.  
+I'm a web developer passionate about building web applications.  
 I love working with modern web technologies and continuously strive to improve my skills.  
 Currently, I'm studying at KMD University and have a background in programming from KMD and MMSIT. 
 
@@ -14,13 +14,14 @@ Currently, I'm studying at KMD University and have a background in programming f
 ## Tech Stack  
 - **Languages:** HTML, CSS, JavaScript, TypeScript 
 - **Frontend:** React, Next.js  
-- **Backend:** Laravel, PHP 
-- **Database:** MySQL, Microsoft SQL
+- **Backend:** Laravel, PHP, FastApi
+- **Database:** MySQL, MongoDB, Postgres, Microsoft SQL
 - **Tools:** Git, VS Code
 
 ## Experience  
 - 💻 **Developed self-initiated projects** to enhance my skills in web development  
-- 🤝 **Remote Internedship at MMSIT**, collaborating with frontedend, UI/UX team and develop the more than 3 projects
+- 🤝 **Remote Developer at MMSIT**, collaborating with frontedend, UI/UX team and develop the real world projects
+- 🤝 **Remote Developer at Netra**, collaborating with frontedend, UI/UX team and develop the real world projects
 
 ## Current Focus  
 - Improving my programming skills at KMD University, MMSIT
